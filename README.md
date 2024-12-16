@@ -42,6 +42,7 @@ To analyze qualitative and quantitative data for the Pona Kakā Initiative, unco
 To analyze content engagement for Social Buzz, a social media platform, identifying top-performing content categories and providing actionable insights to support their IPO preparation and growth strategies.
 
 ### Tools Used
+* MS Excel
 * Python and Jupyter Notebook
 * Tableau
 * Figma
