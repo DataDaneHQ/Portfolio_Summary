@@ -72,7 +72,7 @@ To analyze smart device usage data and uncover actionable insights to optimize B
 
 ### Tools Used
 * R Studio
-* Excel
+* MS Excel
 * ggplot for visualizations
 
 ### Key Outcomes
@@ -128,7 +128,7 @@ To develop a machine learning model for classifying TikTok user interactions as 
 To create an Excel-based personal finance dashboard that enables users to plan, track, and visualize their budget, providing greater control over income, expenses, and savings through interactive, user-friendly tools.
 
 ### Tools Used
-* Excel
+* MS Excel
 
 ### Key Outcomes
 * Developed a comprehensive zero-based budgeting tool, allowing users to manage inconsistent income streams and plan for multi-period budgets effectively.
@@ -205,4 +205,4 @@ To design and develop a dynamic and interactive HR data dashboard, combining rea
 * **Quantium:** Analysing transaction and customer data to identify trends and inconsistences.
   * Python, feature engineering, visualization, and presentation
 * **Saguity:** Development of machine learning models to classify sentiment and categorize customer feedback, uncovering additional metrics for enhanced Customer Experience insights.
-  * Python, feature engineering, machine learning, automated text classification, and sentiment analysis.
+  * MS Excel, Python, feature engineering, machine learning, automated text classification, and sentiment analysis.
