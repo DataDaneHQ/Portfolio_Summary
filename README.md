@@ -169,7 +169,7 @@ To provide a step-by-step guide for cleaning and preparing the Titanic dataset f
 
 <br>
 
-## HR Dashboard with Python and Tableau
+## Tableau HR Dashboard
 [Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
 
 ### Objective
