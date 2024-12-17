@@ -8,6 +8,8 @@ Showcasing expertise in data analytics, this portfolio highlights a proven abili
 
 <br>
 
+<img src="Images/Canva_Presentation_Home_Page.png" alt="Canva Presentation Home Page" height="300px">
+
 ## Pona Kakā Data Analysis
 [Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
 
@@ -34,6 +36,8 @@ To analyze qualitative and quantitative data for the Pona Kakā Initiative, unco
 * Collaboration and alignment with culturally significant objectives
 
 <br>
+
+<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="300px">
 
 ## Accenture Project | Social Buzz
 [Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
