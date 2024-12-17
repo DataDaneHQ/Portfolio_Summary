@@ -8,7 +8,7 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
-<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="300px">
+<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">
 
 ## Pona Kakā Data Analysis
 [Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
@@ -37,7 +37,7 @@ To analyze qualitative and quantitative data for the Pona Kakā Initiative, unco
 
 <br>
 
-<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="300px">
+<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">
 
 ## Accenture Project | Social Buzz
 [Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
@@ -68,7 +68,7 @@ To analyze content engagement for Social Buzz, a social media platform, identify
 
 <br>
 
-<img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="300px">
+<img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="200px">
 
 ## Bellabeat Smart Device Usage Analysis
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
@@ -95,7 +95,7 @@ To analyze smart device usage data and uncover actionable insights to optimize B
 
 <br>
 
-<img src="Images/Final_TikTok_Claims_Classification_Summary_Dashboard_DM.png" alt="TikTok Dashboards" height="300px">
+<img src="Images/Final_TikTok_Claims_Classification_Summary_Dashboard_DM.png" alt="TikTok Dashboards" height="200px">
 
 ## TikTok Claims Classification Project (***Ongoing***)
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
@@ -129,7 +129,7 @@ To develop a machine learning model for classifying TikTok user interactions as 
 
 <br>
 
-<img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="300px">
+<img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">
 
 ## Personal Finance Dashboard
 [Project Link Here](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)
@@ -155,7 +155,7 @@ To create an Excel-based personal finance dashboard that enables users to plan, 
 
 <br>
 
-<img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="300px">
+<img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="200px">
 
 ## Data Cleaning Tutorial
 [Project Link Here](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)
@@ -182,7 +182,7 @@ To provide a step-by-step guide for cleaning and preparing the Titanic dataset f
 
 <br>
 
-<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="300px">
+<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">
 
 ## Tableau HR Dashboard
 [Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
