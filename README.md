@@ -8,35 +8,6 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
-<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">
-
-## Pona Kakā Data Analysis
-[Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
-
-### Objective
-To analyze qualitative and quantitative data for the Pona Kakā Initiative, uncovering insights into participants' experiences and health outcomes to support program improvement and expansion.
-
-### Tools Used
-* MS Word
-* MS Excel
-* Python and Jupyter Notebook
-* Canva
-
-### Key Outcomes
-* Identified key themes from interview data, such as pain duration and treatment preferences, providing actionable insights for program refinement.  
-* Delivered an Initial Summary of Insights Report, highlighting early themes to guide decision-making.  
-* Generated descriptive statistics and visualizations using Python, revealing trends in participant health outcomes.  
-* Synthesized findings into a visually engaging executive report, accessible to non-technical stakeholders, showcasing the initiative’s impact on Māori communities.
-
-### Skills Demonstrated
-* Qualitative and quantitative data analysis
-* Thematic analysis and data categorization
-* Descriptive statistics and data visualization
-* Clear communication of complex insights through reporting and presentation design
-* Collaboration and alignment with culturally significant objectives
-
-<br>
-
 <img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">
 
 ## Accenture Project | Social Buzz
@@ -65,6 +36,35 @@ To analyze content engagement for Social Buzz, a social media platform, identify
 * Interactive dashboard design and visualization
 * Client-oriented reporting and presentation skills
 * Strategic recommendation development for business growth
+
+<br>
+
+<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">
+
+## Pona Kakā Data Analysis
+[Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+
+### Objective
+To analyze qualitative and quantitative data for the Pona Kakā Initiative, uncovering insights into participants' experiences and health outcomes to support program improvement and expansion.
+
+### Tools Used
+* MS Word
+* MS Excel
+* Python and Jupyter Notebook
+* Canva
+
+### Key Outcomes
+* Identified key themes from interview data, such as pain duration and treatment preferences, providing actionable insights for program refinement.  
+* Delivered an Initial Summary of Insights Report, highlighting early themes to guide decision-making.  
+* Generated descriptive statistics and visualizations using Python, revealing trends in participant health outcomes.  
+* Synthesized findings into a visually engaging executive report, accessible to non-technical stakeholders, showcasing the initiative’s impact on Māori communities.
+
+### Skills Demonstrated
+* Qualitative and quantitative data analysis
+* Thematic analysis and data categorization
+* Descriptive statistics and data visualization
+* Clear communication of complex insights through reporting and presentation design
+* Collaboration and alignment with culturally significant objectives
 
 <br>
 
@@ -129,6 +129,38 @@ To develop a machine learning model for classifying TikTok user interactions as 
 
 <br>
 
+<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">
+
+## Tableau HR Dashboard
+[Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
+
+### Objective
+To design and develop a dynamic and interactive HR data dashboard, combining realistic dataset generation with advanced visualization techniques to deliver clear and actionable insights.
+
+### Tools Used
+* Python (Faker Library)
+* Jupyter Lab
+* Tableau
+* Draw.io
+* Figma
+* Flaticon
+
+### Key Outcomes
+* Realistic Dataset Creation: Generated a structured, HR-focused dataset using Python’s Faker Library, ensuring accuracy and relevance for analysis.
+* Advanced Data Visualization: Mastered Tableau techniques to build insightful, interactive charts and graphs tailored for HR data analysis.
+* Efficient Dashboard Design: Applied layout design principles with Draw.io and customized icons (Flaticon) to enhance user navigation and visual appeal.
+* Professional Visual Design: Developed a custom Figma background, elevating the dashboard's professional aesthetics.
+* Interactive Insights: Delivered an interactive Tableau dashboard enabling in-depth analysis and actionable HR insights.
+
+### Skills Demonstrated
+* Data generation and preparation
+* Advanced data visualization in Tableau
+* Dashboard UX/UI design and layout optimization
+* Graphic design and icon customization for visual appeal
+* Documentation and process-based project planning
+
+<br>
+
 <img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">
 
 ## Personal Finance Dashboard
@@ -179,38 +211,6 @@ To provide a step-by-step guide for cleaning and preparing the Titanic dataset f
 * Tutorial creation with a focus on clarity and practical application
 * Structured approach to preparing data for analysis and machine learning
 * Communication of technical concepts to a broad audience
-
-<br>
-
-<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">
-
-## Tableau HR Dashboard
-[Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
-
-### Objective
-To design and develop a dynamic and interactive HR data dashboard, combining realistic dataset generation with advanced visualization techniques to deliver clear and actionable insights.
-
-### Tools Used
-* Python (Faker Library)
-* Jupyter Lab
-* Tableau
-* Draw.io
-* Figma
-* Flaticon
-
-### Key Outcomes
-* Realistic Dataset Creation: Generated a structured, HR-focused dataset using Python’s Faker Library, ensuring accuracy and relevance for analysis.
-* Advanced Data Visualization: Mastered Tableau techniques to build insightful, interactive charts and graphs tailored for HR data analysis.
-* Efficient Dashboard Design: Applied layout design principles with Draw.io and customized icons (Flaticon) to enhance user navigation and visual appeal.
-* Professional Visual Design: Developed a custom Figma background, elevating the dashboard's professional aesthetics.
-* Interactive Insights: Delivered an interactive Tableau dashboard enabling in-depth analysis and actionable HR insights.
-
-### Skills Demonstrated
-* Data generation and preparation
-* Advanced data visualization in Tableau
-* Dashboard UX/UI design and layout optimization
-* Graphic design and icon customization for visual appeal
-* Documentation and process-based project planning
 
 <br>
 
