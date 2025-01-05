@@ -8,9 +8,10 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
+## Accenture Project | Social Buzz
+
 <img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">
 
-## Accenture Project | Social Buzz
 [Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
 
 ### Objective
@@ -39,9 +40,10 @@ To analyze content engagement for Social Buzz, a social media platform, identify
 
 <br>
 
+## Pona Kakā Data Analysis
+
 <img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">
 
-## Pona Kakā Data Analysis
 [Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
 
 ### Objective
@@ -68,9 +70,10 @@ To analyze qualitative and quantitative data for the Pona Kakā Initiative, unco
 
 <br>
 
+## Bellabeat Smart Device Usage Analysis
+
 <img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="200px">
 
-## Bellabeat Smart Device Usage Analysis
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
 
 ### Objective
@@ -95,9 +98,10 @@ To analyze smart device usage data and uncover actionable insights to optimize B
 
 <br>
 
+## TikTok Claims Classification Project (***Ongoing***)
+
 <img src="Images/Final_TikTok_Claims_Classification_Summary_Dashboard_DM.png" alt="TikTok Dashboards" height="200px">
 
-## TikTok Claims Classification Project (***Ongoing***)
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
 ### Objective
@@ -129,9 +133,10 @@ To develop a machine learning model for classifying TikTok user interactions as 
 
 <br>
 
+## Tableau HR Dashboard
+
 <img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">
 
-## Tableau HR Dashboard
 [Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
 
 ### Objective
@@ -161,9 +166,10 @@ To design and develop a dynamic and interactive HR data dashboard, combining rea
 
 <br>
 
+## Personal Finance Dashboard
+
 <img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">
 
-## Personal Finance Dashboard
 [Project Link Here](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)
 
 ### Objective
@@ -187,9 +193,10 @@ To create an Excel-based personal finance dashboard that enables users to plan, 
 
 <br>
 
+## Data Cleaning Tutorial
+
 <img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="200px">
 
-## Data Cleaning Tutorial
 [Project Link Here](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)
 
 ### Objective
