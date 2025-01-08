@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-This portfolio summary highlights my expertise in data analytics, demonstrating my ability to transform messy datasets into actionable insights, craft compelling visualizations, and solve business challenges through data-driven solutions. With a strong foundation in Python, R, SQL, Tableau, and Excel, these projects showcase advanced data manipulation, trend analysis, and predictive modeling. Each project highlights the importance of storytelling with data, effective stakeholder collaboration, and driving decision-making through clear, impactful dashboards and reports. This portfolio reflects my commitment to continuous learning, adaptability, and delivering results that align with business objectives.
+This portfolio summary highlights my expertise in data analytics, demonstrating my ability to transform messy datasets into actionable insights, craft compelling visualizations, and solve business challenges through data-driven solutions. With a strong foundation in Python, R, SQL, Tableau, and Excel, these projects showcase advanced data manipulation, trend analysis, and predictive modelling. Each project highlights the importance of storytelling with data, effective stakeholder collaboration, and driving decision-making through clear, impactful dashboards and reports. This portfolio reflects my commitment to continuous learning, adaptability, and delivering results that align with business objectives.
 
 [Resume](https://github.com/DataDaneHQ/Resume/blob/main/README.md)
 
