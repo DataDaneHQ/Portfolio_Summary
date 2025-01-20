@@ -98,14 +98,14 @@ To analyze smart device usage data and uncover actionable insights to optimize B
 
 <br>
 
-## TikTok Claims Classification Project (***Ongoing***)
+## TikTok Claims Classification Project
 
 <img src="Images/Final_TikTok_Claims_Classification_Summary_Dashboard_DM.png" alt="TikTok Dashboards" height="200px">
 
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
 ### Objective
-To develop a machine learning model for classifying TikTok user interactions as claims or opinions, enhancing content moderation efficiency and improving user experience through data-driven insights and cross-functional collaboration.
+To develop a machine learning model for classifying TikTok user reports as claims or opinions, enhancing content moderation efficiency and improving user experience through data-driven insights and cross-functional collaboration.
 
 ### Tools Used
 * Python and Jupyter Notebook
