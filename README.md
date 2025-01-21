@@ -121,6 +121,7 @@ To develop a machine learning model for classifying TikTok user reports as claim
 * Performed hypothesis testing to validate assumptions and guide feature selection for the classification model.
 * Built a logistic regression model to analyze video characteristics and user verification status, informing feature selection for content classification.
 * Developed an interactive Tableau dashboard summarizing EDA insights for stakeholders.
+* Built and evaluated machine learning models (Random Forest and XGBoost), selecting Random Forest with 99.21% recall for identifying claims.
 * Delivered detailed technical and high-level executive summaries tailored to internal and external stakeholders, aligning findings with strategic goals.
 
 ### Skills Demonstrated
