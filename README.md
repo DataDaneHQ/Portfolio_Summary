@@ -8,99 +8,9 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
-## Accenture Project | Social Buzz
-
-<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">
-
-[Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
-
-### Objective
-To analyze content engagement for Social Buzz, a social media platform, identifying top-performing content categories and providing actionable insights to support their IPO preparation and growth strategies.
-
-### Tools Used
-* MS Excel
-* Python and Jupyter Notebook
-* Tableau
-* Figma
-* Draw.io
-* Canva
-
-### Key Outcomes
-* Conducted data cleaning, transformation, and modelling to ensure high-quality, reliable analysis.
-* Uncovered key user preferences across content themes and formats, highlighting top-performing categories to optimize engagement and retention.
-* Developed an interactive Tableau dashboard showcasing engagement trends by category and content type for stakeholder review.
-* Delivered a client-focused presentation via Canva, summarizing insights and recommending strategies for scalable growth.
-
-### Skills Demonstrated
-* Data cleaning, transformation, and hypothesis testing
-* Exploratory and predictive data analysis
-* Interactive dashboard design and visualization
-* Client-oriented reporting and presentation skills
-* Strategic recommendation development for business growth
-
-<br>
-
-## Pona Kakā Data Analysis
-
-<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">
-
-[Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
-
-### Objective
-To analyze qualitative and quantitative data for the Pona Kakā Initiative, uncovering insights into participants' experiences and health outcomes to support program improvement and expansion.
-
-### Tools Used
-* MS Word
-* MS Excel
-* Python and Jupyter Notebook
-* Canva
-
-### Key Outcomes
-* Identified key themes from interview data, such as pain duration and treatment preferences, providing actionable insights for program refinement.  
-* Delivered an Initial Summary of Insights Report, highlighting early themes to guide decision-making.  
-* Generated descriptive statistics and visualizations using Python, revealing trends in participant health outcomes.  
-* Synthesized findings into a visually engaging executive report, accessible to non-technical stakeholders, showcasing the initiative’s impact on Māori communities.
-
-### Skills Demonstrated
-* Qualitative and quantitative data analysis
-* Thematic analysis and data categorization
-* Descriptive statistics and data visualization
-* Clear communication of complex insights through reporting and presentation design
-* Collaboration and alignment with culturally significant objectives
-
-<br>
-
-## Bellabeat Smart Device Usage Analysis
-
-<img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="200px">
-
-[Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
-
-### Objective
-To analyze smart device usage data and uncover actionable insights to optimize Bellabeat's health and wellness products, enhance marketing strategies, and empower women with data-driven health insights.
-
-### Tools Used
-* R Studio
-* MS Excel
-* ggplot for visualizations
-
-### Key Outcomes
-* Identified user behavior trends in physical activity, sleep, heart rate, and weight tracking, providing a comprehensive understanding of customer needs.
-* Delivered actionable recommendations to enhance product features and marketing strategies, driving customer engagement and product effectiveness.
-* Supported Bellabeat's mission by aligning insights with their goal to empower women through personalized health data.
-
-### Skills Demonstrated
-* Exploratory data analysis and trend identification
-* Advanced data visualization and storytelling
-* Data-driven strategic recommendation development
-* Statistical analysis of health and wellness metrics
-* Alignment of insights with business objectives
-
-<br>
-
 ## TikTok Claims Classification Project
 
-<img src="Images/Optimizing_Content_Moderation_with_Machine_Learning.png" alt="TikTok Dashboards" height="200px">
+[<img src="Images/Optimizing_Content_Moderation_with_Machine_Learning.png" alt="TikTok Dashboards" height="200px">](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-TikTok-Capstone-Project/blob/main/README.md)
 
@@ -134,9 +44,99 @@ To develop a machine learning model for classifying TikTok user reports as claim
 
 <br>
 
+## Accenture Project | Social Buzz
+
+[<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
+
+[Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
+
+### Objective
+To analyze content engagement for Social Buzz, a social media platform, identifying top-performing content categories and providing actionable insights to support their IPO preparation and growth strategies.
+
+### Tools Used
+* MS Excel
+* Python and Jupyter Notebook
+* Tableau
+* Figma
+* Draw.io
+* Canva
+
+### Key Outcomes
+* Conducted data cleaning, transformation, and modelling to ensure high-quality, reliable analysis.
+* Uncovered key user preferences across content themes and formats, highlighting top-performing categories to optimize engagement and retention.
+* Developed an interactive Tableau dashboard showcasing engagement trends by category and content type for stakeholder review.
+* Delivered a client-focused presentation via Canva, summarizing insights and recommending strategies for scalable growth.
+
+### Skills Demonstrated
+* Data cleaning, transformation, and hypothesis testing
+* Exploratory and predictive data analysis
+* Interactive dashboard design and visualization
+* Client-oriented reporting and presentation skills
+* Strategic recommendation development for business growth
+
+<br>
+
+## Pona Kakā Data Analysis
+
+[<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+
+[Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
+
+### Objective
+To analyze qualitative and quantitative data for the Pona Kakā Initiative, uncovering insights into participants' experiences and health outcomes to support program improvement and expansion.
+
+### Tools Used
+* MS Word
+* MS Excel
+* Python and Jupyter Notebook
+* Canva
+
+### Key Outcomes
+* Identified key themes from interview data, such as pain duration and treatment preferences, providing actionable insights for program refinement.  
+* Delivered an Initial Summary of Insights Report, highlighting early themes to guide decision-making.  
+* Generated descriptive statistics and visualizations using Python, revealing trends in participant health outcomes.  
+* Synthesized findings into a visually engaging executive report, accessible to non-technical stakeholders, showcasing the initiative’s impact on Māori communities.
+
+### Skills Demonstrated
+* Qualitative and quantitative data analysis
+* Thematic analysis and data categorization
+* Descriptive statistics and data visualization
+* Clear communication of complex insights through reporting and presentation design
+* Collaboration and alignment with culturally significant objectives
+
+<br>
+
+## Bellabeat Smart Device Usage Analysis
+
+[<img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="200px">](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
+
+[Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
+
+### Objective
+To analyze smart device usage data and uncover actionable insights to optimize Bellabeat's health and wellness products, enhance marketing strategies, and empower women with data-driven health insights.
+
+### Tools Used
+* R Studio
+* MS Excel
+* ggplot for visualizations
+
+### Key Outcomes
+* Identified user behavior trends in physical activity, sleep, heart rate, and weight tracking, providing a comprehensive understanding of customer needs.
+* Delivered actionable recommendations to enhance product features and marketing strategies, driving customer engagement and product effectiveness.
+* Supported Bellabeat's mission by aligning insights with their goal to empower women through personalized health data.
+
+### Skills Demonstrated
+* Exploratory data analysis and trend identification
+* Advanced data visualization and storytelling
+* Data-driven strategic recommendation development
+* Statistical analysis of health and wellness metrics
+* Alignment of insights with business objectives
+
+<br>
+
 ## Tableau HR Dashboard
 
-<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">
+[<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
 
 [Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
 
@@ -169,7 +169,7 @@ To design and develop a dynamic and interactive HR data dashboard, combining rea
 
 ## Personal Finance Dashboard
 
-<img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">
+[<img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)
 
 [Project Link Here](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)
 
@@ -196,7 +196,7 @@ To create an Excel-based personal finance dashboard that enables users to plan, 
 
 ## Data Cleaning Tutorial
 
-<img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="200px">
+[<img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="200px">](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)
 
 [Project Link Here](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)
 
@@ -224,7 +224,9 @@ To provide a step-by-step guide for cleaning and preparing the Titanic dataset f
 
 ## Projects to Come
 
+* **Salifort Motors:** A data-driven exploration of employee turnover trends, identifying key attrition drivers and delivering actionable retention strategies through advanced EDA, correlation analysis, and predictive modeling.
+  * MS Excel, Python, feature engineering, machine learning, statistical analysis, and predictive analytics.
 * **Quantium:** Analysing transaction and customer data to identify trends and inconsistences.
   * Python, feature engineering, visualization, and presentation
-* **Saguity:** Development of machine learning models to classify sentiment and categorize customer feedback, uncovering additional metrics for enhanced Customer Experience insights.
+* **Customer Experience Analytics Project:** Development of machine learning models to classify sentiment and categorize customer feedback, uncovering additional metrics for enhanced Customer Experience insights.
   * MS Excel, Python, feature engineering, machine learning, automated text classification, and sentiment analysis.
