@@ -277,8 +277,8 @@ This Excel-based personal finance dashboard is designed to help users plan, trac
 This structured, hands-on tutorial walks users through cleaning and preparing the Titanic dataset for data analysis and machine learning. Covering essential data cleaning techniques, it demonstrates how to handle duplicates, missing values, outliers, and data type inconsistencies. Designed for both beginners and intermediate users, this tutorial enhances practical Python skills and improves data preparation efficiency for real-world applications.
 
 ### Business Impact
-✅ **Enhanced Data Quality**: Ensures datasets are clean, consistent, and ready for analysis.
-✅ **Optimized Machine Learning Performance**: Prepares data for accurate and reliable model training.
+✅ **Enhanced Data Quality**: Ensures datasets are clean, consistent, and ready for analysis.  
+✅ **Optimized Machine Learning Performance**: Prepares data for accurate and reliable model training.  
 ✅ **Scalable Data Cleaning Techniques**: Provides reusable methods applicable across various real-world datasets.
 
 ### Tools & Technologies
