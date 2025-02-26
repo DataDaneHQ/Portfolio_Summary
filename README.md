@@ -108,7 +108,7 @@ This project is a comprehensive analysis of content engagement for Social Buzz, 
 
 ### Key Outcomes
 * Conducted Data Cleaning & Transformation: Ensured high-quality, reliable analysis for engagement insights.
-* Uncovered Key User Preferences: Analyzed content themes and formats driving the most engagement.
+* Uncovered Key User Preferences: Analysed content themes and formats driving the most engagement.
 * Developed an Interactive Tableau Dashboard: Delivered data-driven visualizations for stakeholder decision-making.
 * Presented Strategic Growth Recommendations: Summarized insights into scalable content strategies supporting IPO readiness.
 
@@ -129,7 +129,7 @@ This project is a comprehensive analysis of content engagement for Social Buzz, 
 [Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
 
 ### Project Overview
-This project, conducted for the Waikare Community Development and Research Trust and funded by the Health Research Council of New Zealand (HRCNZ), analyzed qualitative and quantitative data from the Pona Kakā Initiative—a culturally grounded arthritis intervention for Māori communities.
+This project, conducted for the Waikare Community Development and Research Trust and funded by the Health Research Council of New Zealand (HRCNZ), analysed qualitative and quantitative data from the Pona Kakā Initiative—a culturally grounded arthritis intervention for Māori communities.
 
 Through thematic analysis, descriptive statistics, and visualization, the study uncovered key participant experiences, health outcomes, and program impact, providing actionable insights to enhance intervention effectiveness and guide future program decisions. Findings were synthesized into an executive report tailored for both technical and non-technical stakeholders.
 
@@ -147,7 +147,7 @@ Through thematic analysis, descriptive statistics, and visualization, the study 
 ### Key Outcomes
 * Extracted Key Themes from Interview Data: Identified trends in pain management, treatment preferences, and quality of life.
 * Developed an Initial Insights Report: Highlighted early themes to support strategic decision-making.
-* Generated Statistical & Visual Analysis: Used Python to analyze participant health outcomes.
+* Generated Statistical & Visual Analysis: Used Python to analyse participant health outcomes.
 * Created an Executive-Level Report: Presented findings in an accessible format, emphasizing the initiative’s impact on Māori communities.
 
 ### Skills Demonstrated
@@ -167,11 +167,11 @@ Through thematic analysis, descriptive statistics, and visualization, the study 
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
 
 ### Project Overview
-This project analyzed smart device usage data to uncover trends in physical activity, sleep, heart rate, and weight tracking. The goal was to provide data-driven insights that optimize Bellabeat’s product offerings and marketing strategies while supporting their mission to empower women with personalized health insights. By leveraging exploratory data analysis (EDA) and visualization techniques, the study identified user behavior trends and delivered strategic recommendations to enhance customer engagement and product effectiveness.
+This project analysed smart device usage data to uncover trends in physical activity, sleep, heart rate, and weight tracking. The goal was to provide data-driven insights that optimize Bellabeat’s product offerings and marketing strategies while supporting their mission to empower women with personalised health insights. By leveraging exploratory data analysis (EDA) and visualization techniques, the study identified user behavior trends and delivered strategic recommendations to enhance customer engagement and product effectiveness.
 
 ### Business Impact  
 ✅ **Optimized Product Development**: Identified key user behaviors to refine features and improve product-market fit.  
-✅ **Enhanced Customer Engagement**: Delivered data-driven recommendations to personalize health insights.  
+✅ **Enhanced Customer Engagement**: Delivered data-driven recommendations to personalise health insights.  
 ✅ **Strengthened Marketing Strategy**: Provided insights to align content and campaigns with user needs.
 
 ### Tools & Technologies
@@ -180,9 +180,9 @@ This project analyzed smart device usage data to uncover trends in physical acti
 * ggplot
 
 ### Key Outcomes
-* Analyzed User Behavior Trends: Identified patterns in activity, sleep, heart rate, and weight tracking.
+* Analysed User Behavior Trends: Identified patterns in activity, sleep, heart rate, and weight tracking.
 * Developed Strategic Recommendations: Provided actionable insights to enhance customer engagement.
-* Aligned Insights with Business Goals: Strengthened Bellabeat’s mission to empower women through personalized health data.
+* Aligned Insights with Business Goals: Strengthened Bellabeat’s mission to empower women through personalised health data.
 
 ### Skills Demonstrated
 * Exploratory Data Analysis & Trend Identification – Extracted insights from large datasets to inform decision-making.
@@ -262,7 +262,7 @@ This Excel-based personal finance dashboard is designed to help users plan, trac
 * UX/UI Dashboard Design – Created an intuitive, user-friendly interface for financial planning.
 * Budget Planning & Financial Analytics – Developed structured budget tracking workflows with real-time insights.
 * Integration of Real-World Financial Features – Incorporated bank account monitoring and savings tracking for practical application.
-* Customization & Process Optimization – Adapted templates to personalized financial planning needs.
+* Customization & Process Optimization – Adapted templates to personalised financial planning needs.
 
 <br>
 
