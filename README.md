@@ -8,7 +8,7 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
-## Victorian Electricity Hardship Analysis
+## Victorian Energy & Affordability Analysis
 *Assessing the Impact of Cost-of-Living Pressures on Residential Electricity Customers*
 
 [<img src="Images/cost-of-living_wallet_drain_1.jpg" alt="ESC cover image" height="200px">](https://github.com/DataDaneHQ/Cost-of-Living_Pressures/blob/main/README.md)
