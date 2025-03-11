@@ -8,6 +8,42 @@ This portfolio summary highlights my expertise in data analytics, demonstrating 
 
 <br>
 
+## Vicorian Electricity Hardship Analysis
+*Assessing the Impact of Cost-of-Living Pressures on Residential Electricity Customers*
+
+[<img src="Images/cost-of-living_wallet_drain_1.jpg" alt="ESC cover image" height="200px">](https://github.com/DataDaneHQ/Cost-of-Living_Pressures/blob/main/README.md)
+
+[Project Link Here](https://github.com/DataDaneHQ/Cost-of-Living_Pressures/blob/main/README.md)
+
+### Project Overview
+The rising cost of living has placed financial strain on residential electricity customers. This project analyzes arrears, disconnections, and financial assistance uptake to assess the impact of cost-of-living pressures on household energy affordability in Victoria.
+
+Using Essential Services Commission (ESC) compliance and performance data, this study identifies key trends in financial distress, helping stakeholders understand where interventions may be needed.
+
+### Potential Business Impact
+✅ **Enhanced Consumer Protections:** Identified key financial hardship trends to support targeted policy interventions.  
+✅ **Improved Assistance Programs:** Provided insights to refine financial aid programs for vulnerable households.  
+✅ **Data-Driven Decision-Making:** Equipped policymakers and energy providers with actionable insights to anticipate and mitigate financial distress.  
+
+### Tools & Technologies
+* R & Posit Cloud
+* ggplot2
+* RMarkdown
+* Canva
+
+### Key Outcomes
+* **Analyzed Energy Hardship Trends**: – Assessed arrears, disconnections, and financial assistance uptake over time.  
+* **Identified Vulnerable Consumer**: Segments – Highlighted customer groups most impacted by rising costs.  
+* **Developed Stakeholder Reports**: – Translated data findings into clear, actionable insights for decision-makers.  
+
+### Skills Demonstrated
+* Data Wrangling & Trend Analysis – Processed and analyzed financial hardship data.  
+* Data Visualization & Insights – Created impactful visual summaries using ggplot2.  
+* Policy-Oriented Reporting – Communicated findings in structured reports tailored to non-technical stakeholders.  
+* Stakeholder Communication – Delivered clear, concise presentations highlighting key affordability challenges.  
+
+<br>
+
 ## Salifort Motors Employee Attrition Analysis
 *Predicting Employee Turnover with Machine Learning*
 
