@@ -120,10 +120,10 @@ Content moderation is critical for ensuring platform integrity, but manual revie
 
 <br>
 
-## Accenture Project | Social Buzz
+## Accenture Project | Social Buzz  
+*Data-Driven Content Strategy for IPO Preparation*  
 
 [<img src="Images/accenture_socialbuzz.png" alt="Accenture/SocialBuzz" height="200px">](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)  
-*Data-Driven Content Strategy for IPO Preparation*
 
 [Project Link Here](https://github.com/DataDaneHQ/Accenture_Project_SocialBuzz/blob/main/README.md)
 
@@ -157,10 +157,10 @@ This project is a comprehensive analysis of content engagement for Social Buzz, 
 
 <br>
 
-## Pona Kakā Data Analysis
+## Pona Kakā Data Analysis  
+*Culturally Informed Insights for Arthritis Intervention*  
 
 [<img src="Images/Canva_Presentation_Home_Page_2.png" alt="Canva Presentation Home Page" height="200px">](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)  
-*Culturally Informed Insights for Arthritis Intervention*
 
 [Project Link Here](https://github.com/DataDaneHQ/Pona_Kaka/blob/main/README.md)
 
@@ -195,10 +195,10 @@ Through thematic analysis, descriptive statistics, and visualization, the study 
 
 <br>
 
-## Bellabeat Smart Device Usage Analysis
+## Bellabeat Smart Device Usage Analysis  
+*Data-Driven Insights to Optimize Health & Wellness Products*  
 
 [<img src="Images/bellabeat_wrist.png" alt="Bellabeat Wrist" height="200px">](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)  
-*Data-Driven Insights to Optimize Health & Wellness Products*
 
 [Project Link Here](https://github.com/DataDaneHQ/Coursera-Bellabeat-Capstone-Project/blob/main/README.md)
 
@@ -229,10 +229,10 @@ This project analysed smart device usage data to uncover trends in physical acti
 
 <br>
 
-## Tableau HR Dashboard
+## Tableau HR Dashboard  
+*Interactive Workforce Analytics & Visualization*  
 
 [<img src="Images/Dual_Dashboard_View.png" alt="HR Dashboard Project" height="200px">](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)  
-*Interactive Workforce Analytics & Visualization*
 
 [Project Link Here](https://github.com/DataDaneHQ/HR_Dashboard_Project/blob/main/README.md)
 
@@ -269,10 +269,10 @@ Built in Tableau, the dashboard provides interactive insights into employee demo
 
 <br>
 
-## Personal Finance Dashboard
+## Personal Finance Dashboard  
+*Interactive Budgeting & Financial Planning Tool*  
 
 [<img src="Images/Budget_Dashboard_Sheet.png" alt="Personal Finance Dashboard" height="200px">](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)  
-*Interactive Budgeting & Financial Planning Tool*
 
 [Project Link Here](https://github.com/DataDaneHQ/Personal_Finance_Planner/blob/main/README.md)
 
@@ -302,10 +302,10 @@ This Excel-based personal finance dashboard is designed to help users plan, trac
 
 <br>
 
-## Data Cleaning Tutorial
+## Data Cleaning Tutorial  
+*A Hands-On Guide to Preparing the Titanic Dataset for Analysis*  
 
 [<img src="Images/Titanic_3.jpg" alt="Titanic Data Cleaning" height="200px">](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)  
-*A Hands-On Guide to Preparing the Titanic Dataset for Analysis*
 
 [Project Link Here](https://github.com/DataDaneHQ/Data_Cleaning_Tutorial/blob/main/README.md)
 
